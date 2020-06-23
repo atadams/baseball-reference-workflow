@@ -9,7 +9,7 @@ Search players and teams on [Baseball Reference](https://www.baseball-reference.
 Download
 --------
 
-### [Download the workflow file](https://github.com/atadams/baseball-reference-workflow/releases/download/v1.0.1/Baseball-Reference-Search.alfredworkflow) and open it using [Alfred](https://www.alfredapp.com/).
+### [Download the workflow file](https://github.com/atadams/baseball-reference-workflow/releases/download/v1.0.2/Baseball-Reference-Search.alfredworkflow) and open it using [Alfred](https://www.alfredapp.com/).
 
 
 Usage
