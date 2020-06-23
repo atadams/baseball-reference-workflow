@@ -1,7 +1,7 @@
 Baseball Reference Workflow for Alfred
 =============================
 
-Search players and teams on Baseball Reference from within Alfred.
+Search players and teams on [Baseball Reference](https://www.baseball-reference.com/) from within [Alfred](https://www.alfredapp.com/).
 
 ![screen-demo](https://user-images.githubusercontent.com/392510/85432140-25857f00-b548-11ea-865a-03ed3622b82d.gif "Demo")
 
@@ -9,18 +9,31 @@ Search players and teams on Baseball Reference from within Alfred.
 Download
 --------
 
-Get the workflow from [GitHub releases][gh-releases].
+### [Download the workflow file](https://github.com/atadams/baseball-reference-workflow/releases/download/v1.0.1/Baseball-Reference-Search.alfredworkflow) and open it using [Alfred](https://www.alfredapp.com/).
 
 
 Usage
 -----
 
-- `br <query>` Search player or team. Select to link to page on Baseball-Reference.com
+- `br <player or team>` Search player or team. Select to link to page on Baseball-Reference.com
 - `brupdate` Force update of the player list. By default, the workflow will update the list every 30 days.
 
-[aw]: https://github.com/deanishe/alfred-workflow
-[cc]: http://creativecommons.org/licenses/by/3.0/
-[docopt]: http://docopt.org/
-[gh-releases]: https://github.com/atadams/baseball-reference-workflow/releases/latest
-[adams_at]: http://twitter.com/adams_at
-[mit]: http://opensource.org/licenses/MIT
+
+Issues
+------
+
+If you have any problems or comments, create an issue or contact me on Twitter ([@adams_at](http://twitter.com/adams_at))
+
+
+License
+-------
+
+[MIT License](http://opensource.org/licenses/MIT)
+
+
+Thanks
+------
+
+This workflow uses Dean Jackson’s [Alfred Workflow](https://github.com/deanishe/alfred-workflow) library.
+
+Specal thanks to [Baseball Reference](https://www.baseball-reference.com/) for creating such a great resource!
